@@ -18,3 +18,32 @@ grande{
 p.centrar{
     text-align: center;
 }
+.rojo{
+    border:  solid firebrick;
+    border-width: 10px 5px 3px 2px;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+
+
+.rosa{
+     border: dashed hotpink;
+     border-width: 10px 5px 3px 2px;
+     border-width: thick;
+}
+
+
+
+.amarillo{
+     border:  double rgb(0, 255, 42);
+     border-width: 10px 5px 3px 2px;
+    
+}
+
+
+
+.azul{
+     border:  dotted turquoise;
+     border-width: 10px 5px 3px 2px;
+}
