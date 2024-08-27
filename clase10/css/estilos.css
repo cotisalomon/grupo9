@@ -1,0 +1,26 @@
+div{
+    max-width: 300px;
+    padding: 10px;
+    margin: auto;
+}
+.rojo{
+    background-color: 131,56,236;
+}
+div{
+    background-color: 131,56,236,.5;
+}
+div{
+    background-color:  #0091ad;
+}
+div{
+    background-color: #0091ad88;
+}
+div{
+    .HSL background-color: 195, 100%, 50%;
+}
+div{
+    .hsltransparencia background-color: 195, 100%, 50%, 0.5;
+}
+*{
+    background-color: dimgray;
+}
