@@ -1,8 +1,8 @@
 h1{
     background-color:  #ef476f;
-    text-align: center
+    text-align: center;
     text-transform: uppercase;
-    text-shadow: 2px 2px 2px #ced4da.
+    text-shadow: 2px 2px 2px #ced4da;
     letter-spacing: 3px;
     word-spacing: 3px;
 }
@@ -10,7 +10,7 @@ h1{
     padding: 15px;
     margin: auto;
     width: 70%;
-    backgournd-color: #219ebc;
+    background-color: #219ebc;
 
     border-radius: 5px;
     color: white;
