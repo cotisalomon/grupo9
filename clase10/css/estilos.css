@@ -4,23 +4,30 @@ div{
     margin: auto;
 }
 .rojo{
-    background-color: 131,56,236;
+    background-color: hsl(56,236);
 }
-div{
-    background-color: 131,56,236,.5;
+.caja{
+    padding: 15px;
+        margin: auto;
+        width: 70%;
+        backgournd-color: #219ebc;
+    
+        border-radius: 5px;
+        color: white;
+    
 }
 div{
     background-color:  #0091ad;
 }
-div{
+.hexatransparencia{
     background-color: #0091ad88;
 }
-div{
-    .HSL background-color: 195, 100%, 50%;
+.HSL {
+    background-color: hsl( 195, 100%, 50%);
 }
-div{
-    .hsltransparencia background-color: 195, 100%, 50%, 0.5;
+.hsltransparencia {
+    background-color: hsla(195, 100%, 50%, 0.5);
 }
-*{
+ *{
     background-color: dimgray;
 }
