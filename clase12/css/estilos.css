@@ -1,0 +1,19 @@
+div,p,h1{
+    border:3px solid blueviolet;
+    text-align: center;
+    color: cornflowerblue;
+    padding: 10px;
+    block-size:block;
+}
+span{
+    display: block;
+}
+a{
+    display: block
+}
+li{
+    display: inline
+}
+h1{ 
+    display: none
+}
